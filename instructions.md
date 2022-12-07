@@ -74,3 +74,20 @@ This project is meant to push you to find new uses for your current programming 
 - I stay after school on Mondays, Wednesdays, and Thursdays in the computer lab (B102), so this is a great opportunity to get some one-on-one help from me!
 - I have made a set of [videos]() of me reading through each year's puzzle and sketching out an algorithm in English on an approach to solve the problem. These are not the only ways to solve the problems, your limits are your creativity!
 - I have provided my puzzle input in each folder in a file named `mrg-input.json`. If you change your code to read in my `mrg-input.json` file instead of yours, you can check your output against my correct answer to help determine if your code is working correctly!
+
+Ranking:
+
+Easy
+2015 1
+2019 1
+2018 1
+2015 2
+2017 1
+2017 2
+2019 2
+2020 1
+2018 2
+2020 2
+2016 1
+2016 2
+Hard
