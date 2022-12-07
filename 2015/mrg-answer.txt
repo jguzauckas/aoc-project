@@ -1,0 +1,2 @@
+The instructions take Santa to floor 232.
+The character that causes Santa to first enter the basement is at position 1,738.
