@@ -1,2 +1,2 @@
-If you multiply the two entries that add up to 2020, you get 646,779.
-If you multiply the three entries that add up to 2020, you get 246,191,688.
+The depth increased a total of 1,681 times.
+The depth in sets of 3 increased a total of 1,704 times.
