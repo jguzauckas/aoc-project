@@ -1,0 +1,2 @@
+The resulting frequency is 505
+The first frequency repeated twice is 72,330.
