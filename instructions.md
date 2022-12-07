@@ -75,19 +75,25 @@ This project is meant to push you to find new uses for your current programming 
 - I have made a set of [videos]() of me reading through each year's puzzle and sketching out an algorithm in English on an approach to solve the problem. These are not the only ways to solve the problems, your limits are your creativity!
 - I have provided my puzzle input in each folder in a file named `mrg-input.json`. If you change your code to read in my `mrg-input.json` file instead of yours, you can check your output against my correct answer to help determine if your code is working correctly!
 
-Ranking:
+---
 
-Easy
-2015 1
-2019 1
-2018 1
-2015 2
-2017 1
-2017 2
-2019 2
-2020 1
-2018 2
-2020 2
-2016 1
-2016 2
-Hard
+## Ranking Difficulty
+
+To help you prioritize which ones to try first, I have roughly ranked all 16 problems in terms of difficulty against one another. In this list, the first ones are the easiest, and get more difficult as you go down to the bottom.
+
+1. 2015 Part 1
+2. 2019 Part 1
+3. 2018 Part 1
+4. 2015 Part 2
+5. 2017 Part 1
+6. 2022 Part 1
+7. 2021 Part 1
+8. 2017 Part 2
+9. 2019 Part 2
+10. 2020 Part 1
+11. 2018 Part 2
+12. 2020 Part 2
+13. 2021 Part 2
+14. 2022 Part 2
+15. 2016 Part 1
+16. 2016 Part 2
