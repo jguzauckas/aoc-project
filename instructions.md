@@ -48,6 +48,24 @@ Your process for each year should look like the following:
 
 ---
 
+## Working with `json` Files in Folders
+
+When working with things in folders, we need to tell Python where to look in the repository for a file. For example, when working on your `solve.py` in the 2022 folder, you will want to read from the `input.json` file in that same folder. To do this, it will not be as simple as:
+
+```python
+open("input.json", "r")
+```
+
+We have to specify the folder that this `json` file is in:
+
+```python
+open("2022/input.json", "r")
+```
+
+To do this for any year, just replace the `2022` with the year folder you are working in at the time!
+
+---
+
 ## Assistance Offered
 
 This project is meant to push you to find new uses for your current programming skills. As such, I don't want to provide the complete answers to you as that may limit your growth. That being said, there are a couple of things I am offering to do to help you out:
