@@ -1,0 +1,2 @@
+The sum of the fuel requirements is 3,497,399.
+The sum of the fuel requirements accounting for the mass of fuel is 5,243,207.
