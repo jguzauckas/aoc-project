@@ -50,7 +50,7 @@ Your process for each year should look like the following:
 
 ## Working with `json` Files in Folders
 
-When working with things in folders, we need to tell Python where to look in the repository for a file. For example, when working on your `solve.py` in the 2022 folder, you will want to read from the `input.json` file in that same folder. To do this, it will not be as simple as:
+When working with things in folders, we need to tell Python where to look in the repository for a file. For example, when working on your `solve.py` in the 2022 folder, you will want to read from the `input.json` file in that same folder. To do this, it will **not** be as simple as:
 
 ```python
 open("input.json", "r")
@@ -72,7 +72,7 @@ This project is meant to push you to find new uses for your current programming 
 
 - I am always willing to discuss the project with you in class, and will do my best to rotate around and help everyone that needs it!
 - I stay after school on Mondays, Wednesdays, and Thursdays in the computer lab (B102), so this is a great opportunity to get some one-on-one help from me!
-- I have made a set of [videos]() of me reading through each year's puzzle and sketching out an algorithm in English on an approach to solve the problem. These are not the only ways to solve the problems, your limits are your creativity!
+- I will be releasing a set of videos of me reading through each year's puzzle and sketching out an algorithm in English on an approach to solve the problem. Stay tuned for this in Google Classroom. These are not the only ways to solve the problems, your limits are your creativity!
 - I have provided my puzzle input in each folder in a file named `mrg-input.json`. If you change your code to read in my `mrg-input.json` file instead of yours, you can check your output against my correct answer to help determine if your code is working correctly!
 
 ---
